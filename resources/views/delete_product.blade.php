@@ -1,0 +1,1 @@
+delete_product.blade.php
